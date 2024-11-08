@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
+https://blog-preview-card-three-weld.vercel.app/
 
 ## Welcome! 👋
 
